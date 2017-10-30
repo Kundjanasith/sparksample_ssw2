@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/centos/kjzth/sparksample/src/main/scala/W2V1.scala:4:8: W2V is already defined as object W2V[0m
+[0m[[0m[31merror[0m] [0m[0mobject W2V{[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
