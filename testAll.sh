@@ -1,0 +1,20 @@
+echo "ROUND : "$1
+bash test_05.sh $1
+bash test_10.sh $1
+bash test_20.sh $1
+bash test_25.sh $1
+bash test_30.sh $1
+bash test_35.sh $1
+bash test_40.sh $1
+bash test_45.sh $1
+bash test_50.sh $1
+bash test_55.sh $1
+bash test_60.sh $1
+bash test_65.sh $1
+bash test_70.sh $1
+bash test_75.sh $1
+bash test_80.sh $1
+bash test_85.sh $1
+bash test_90.sh $1
+bash test_95.sh $1
+bash test_100.sh $1
